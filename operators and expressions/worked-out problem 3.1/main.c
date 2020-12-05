@@ -3,6 +3,8 @@
 
 int main()
 {
+    //WORKED-OUT PROBLEM 3.1
+    //The program in shows the use of integer arithmetic to convert a given number of days int months and days
     int n;
     printf("Enter The Number: \n");
     scanf("%d", &n);
