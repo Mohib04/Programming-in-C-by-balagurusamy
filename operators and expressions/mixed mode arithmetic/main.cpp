@@ -7,6 +7,18 @@ int main1(){
 
 //Relational Operators
 int main(){
-    int a = 10<20;// dos theke bis boro//true//0
-    printf("%d\n", a);
+    ///a,b theke soto
+    int a=10;
+    int b=20;
+    int c = (a>=b);
+    int r = (a<b);
+    if(r){
+        printf("A, B theke soto\n");
+        printf("The value of r is %d", r);
+    }
+    else{
+        printf("apnr logic thik nai!!\n");
+        printf("The value of r is %d", r);
+    }
+
 }
